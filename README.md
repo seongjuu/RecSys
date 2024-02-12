@@ -13,4 +13,4 @@
 
 ## 👩‍💻 담당업무
 - EDA
-- Bestseller, IBCF, UBCF, UBCF(시간 가중치 추가), FM+Bestseller 하이브리드 모델(상황변수 추가), Neural MF, MF+FM 하이브리드 모델 코드 작업
+- Bestseller, IBCF, UBCF, UBCF_시간 가중치 추가 모델, FM+Bestseller 하이브리드 모델(상황변수 추가), MF+FM 하이브리드 모델 코드 작업 및 돌리기
